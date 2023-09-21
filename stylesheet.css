@@ -137,7 +137,7 @@ body {
 
 @-webkit-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('https://instagram.com/stories/mr__badshah___78/3194844105037679150?igshid=MTc4MmM1YmI2Ng==-blue .png');
+		background-image:url('bulb.png');
 		opacity: 0;
 	}
 	50%{
