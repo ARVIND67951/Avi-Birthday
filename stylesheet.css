@@ -137,20 +137,20 @@ body {
 
 @-webkit-keyframes bulb_glow_yellow {
 	0%{
-		background-image:url('bulb.png');
+		background-image:url('bulb_yellow.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb color.png');
+		background-image: url('bulb.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb-blue .png');
+		background-image: url('bulb_yellow.png');
 		opacity: 0;
 	}
 	50%{
@@ -1098,26 +1098,20 @@ audio {
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
-#bulb22,#bulb22 {
-	background-image: url('bulb2.jpg');
+#bulb1,#bulb11 {
+	background-image: url('b1.png');
 }
 #bulb2,#bulb22 {
-	background-image: url('bulb2.jpg');
-}
-#b1,#b11 {
-	background-image: url('b.png');
-}
-#b2,#b22{
-	background-image: url('b2.jpeg');
+	background-image: url('b2.png');
 }
 #b3,#b33{
-	background-image: url('b3.jpeg');
+	background-image: url('b3.png');
 }
 #b4,#b44{
-	background-image: url('b4.jpeg');
+	background-image: url('b4.png');
 }
 #b5,#b55{
-	background-image: url('b5.jpeg');
+	background-image: url('b5.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
