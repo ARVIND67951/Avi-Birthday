@@ -127,7 +127,7 @@ body {
 }
 
 .bulb-glow-yellow {
-	background-image: url('bulb color.png');
+	background-image: url('bulb_green.png');
 	-webkit-animation: bulb_glow_yellow linear 5s;
 	-moz-animation: bulb_glow_yellow linear 5s;
 	-o-animation: bulb_glow_yellow linear 5s;
@@ -137,14 +137,14 @@ body {
 
 @-webkit-keyframes bulb_glow_yellow {
 	0%{
-		background-image:url('bulb_yellow.png');
+		background-image:url('bulb_red.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb.png');
+		background-image: url('bulb_blue.png');
 		opacity: 1;
 	}
 }
@@ -157,26 +157,26 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb color.png');
+		background-image: url('bulb_orange.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb-blue .png');
+		background-image: url('bulb_pink.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb color.png');
+		background-image: url('bulb_green.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('bulb-blue .png');
+		background-image: url('bulb_green.png');
 		opacity: 0;
 	}
 	50%{
