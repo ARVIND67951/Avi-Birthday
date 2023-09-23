@@ -1263,6 +1263,13 @@ audio {
 #play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
 	display: none;
 }
+#right{
+background-image:url('vine.png');
+}
+#left{
+background-image:url('vine.png');
+}
+	
 
 .cake-cover {
 	margin-top: 50px;
